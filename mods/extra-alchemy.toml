@@ -1,0 +1,14 @@
+name = "Extra Alchemy"
+filename = "extraalchemy-fabric-1.16.5-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3225/234/extraalchemy-fabric-1.16.5-1.4.1.jar"
+hash-format = "murmur2"
+hash = "3209506852"
+
+[update]
+[update.curseforge]
+file-id = 3225234
+project-id = 247357
+release-channel = "beta"

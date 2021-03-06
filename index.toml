@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "0880860c85bd27a629f6210aab0f2cd878d6d228d755da796c1bf5ff132f9330"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "d870876180e3fb1791ca83086b41db7e40634475308c9ef895b12aa6c41b6b15"
+metafile = true
+
+[[files]]
+file = "mods/auto-config-updated-api.toml"
+hash = "2b3b8bf50f99f9c6f649ff8e93ae4119bd3bb4f404ffc9c33000e32b9fe4a774"
+metafile = true
+
+[[files]]
+file = "mods/betterend.toml"
+hash = "477acdb3c5b24bbfb9bbc1c446d237c353e5b600996138b2a6e350b1b8e9fb06"
+metafile = true
+
+[[files]]
+file = "mods/betternether.toml"
+hash = "93b3f5252c5c58ba6e4cff30fab4d6e32b96f2add17b1e57e8d92f6f7ecc268a"
+metafile = true
+
+[[files]]
+file = "mods/campanion.toml"
+hash = "d317d91c62c1d8b150464d8cdd3403f42daeda15b58f43971bede0b83afe42ce"
+metafile = true
+
+[[files]]
+file = "mods/cave-biomes.toml"
+hash = "f3033dbdbdd24803abb78155dd96be15dcd00daba75516132c0f718014d154f9"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "198b707765f67dd2baa93ad0c52f5a55411b8301c34f00764dd3f0a3f4eb6098"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.toml"
+hash = "e974b120cccd04f1f3ea2641ae513ef2fa5f4c76d0343a31b90599ab18e6d264"
+metafile = true
+
+[[files]]
+file = "mods/extra-alchemy.toml"
+hash = "4c8e30ede88b8140ecb21e4054434de63751040bc5f42a57649cd6e91613aee9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "d968b237fe5395af954f1e65ec073c3b84b1f7b71676222efa0917ae781df478"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.toml"
+hash = "6b94fc7e70baac84d6be150d8a429599ab6337f7fd8dcc079260323a1bdb9ee0"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "422c1de9efb874e42c49d6cfbf87bcb01e603f9adba2f51a9dfaa3611b7313b8"
+metafile = true
+
+[[files]]
+file = "mods/mo-structures.toml"
+hash = "1c80f04c6c1b3fef58c558d452c2086d92cad265a276005bafe6c64dd2d96a2c"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "cbc1c51c63ad8de8978eec90d85522d429391ce43d017a3bbe6d6da3d20b2bb1"
+metafile = true
+
+[[files]]
+file = "mods/name-pain.toml"
+hash = "f32006a5e9b05fa09f948bb06bfac3bdb4d395062f39b0212e2a98d9186e35f5"
+metafile = true
+
+[[files]]
+file = "mods/origins.toml"
+hash = "0a08fafb4254d8ac1fc673ab9d71bfcca330bfd2fe554693e00cd9e98b8a6254"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.toml"
+hash = "c99585056cb96ebb7223cc2db9f760e9a0f85db06334cfdd5449d5078c7c6411"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "be16719db2ee9f649d8767e310d66b34e03b2458831c25b9675cbe3db9d79fc5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "564d43f4cb20f857e6e899817c70a15691521e51a2808f8416b04df33806437f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "cae153853ff09b624c9444bdbe27ec4b4d2f89700047cb05f897b249266c1cfe"
+metafile = true

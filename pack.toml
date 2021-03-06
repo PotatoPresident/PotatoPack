@@ -1,0 +1,12 @@
+name = "Potato Pack"
+author = "Potatoboy9999"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b717e41ae07557bf34c1ff742642ebed8805f063d2dcb96b4004448c5ca3a4ad"
+
+[versions]
+fabric = "0.11.2"
+minecraft = "1.16.5"
