@@ -51,6 +51,11 @@ hash = "612c04bfd7968a58a35ab96f88d411f14ff98b2b374098f5b14d85ca727a1421"
 metafile = true
 
 [[files]]
+file = "mods/blockus.toml"
+hash = "d3dc2c7d71c517728fcaa15a475b35220ab52380e1cf4cb3cecf28404ebb3502"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.toml"
 hash = "c1142887265715b40893057b1b7a1eed1a5c0a13cd0f91b0bc09f5744575b527"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/campanion.toml"
 hash = "d317d91c62c1d8b150464d8cdd3403f42daeda15b58f43971bede0b83afe42ce"
+metafile = true
+
+[[files]]
+file = "mods/capes.toml"
+hash = "193b85b97152e488cc74dc0de0e99014d1b031ad96804c64a5057483b8c0f0ae"
 metafile = true
 
 [[files]]
@@ -96,12 +106,18 @@ hash = "198b707765f67dd2baa93ad0c52f5a55411b8301c34f00764dd3f0a3f4eb6098"
 metafile = true
 
 [[files]]
-file = "mods/connected-block-textures-0.1.31.16.jar"
-hash = "2f1d2b733a16b6f183c0289b76bcc960ed1a21d8290eff3d8b8b645b6e94cac4"
-
-[[files]]
 file = "mods/craftpresence.toml"
 hash = "c775e9cfb96430601257bc5100b183033f22458985647b3eab4233a37f5fa4b9"
+metafile = true
+
+[[files]]
+file = "mods/croptopia-fabric.toml"
+hash = "085616ebe369d5a60b02d36689691e4feb86b43bf77c4c71166b6c6edea029bc"
+metafile = true
+
+[[files]]
+file = "mods/dimension-fix-some-forge-patches-ported.toml"
+hash = "ae227ffeef3aad7076d25a5dfba712ca68a8030cb5a1b2e60d48a2ac0da38746"
 metafile = true
 
 [[files]]
@@ -122,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-disable-custom-worlds-advice.toml"
 hash = "833c49834e1bb973fa63773268d6882305319d60f6fe1a45ebca7ac735a1a187"
+metafile = true
+
+[[files]]
+file = "mods/fabric-furnaces.toml"
+hash = "2b6985660ed8baabaf006f859ec0c4bd0ede58ebb3b656b9630df97132b5caff"
 metafile = true
 
 [[files]]
@@ -168,15 +189,6 @@ metafile = true
 file = "mods/hat-list.toml"
 hash = "110d5f54c1bc08e70cd3e885448589f1fe323b5b2c7990da69cc233b91d8f989"
 metafile = true
-
-[[files]]
-file = "mods/immersive-portals-mod.toml"
-hash = "efbcbf83e093ee5e8ced37e870af3df643e38940b996cb652099446f34b43495"
-metafile = true
-
-[[files]]
-file = "mods/indium-1.0.0.jar"
-hash = "e6bd4beed1c2069e009d24fe7733df9aed57d82f3b01bb65b694ac0d245841f5"
 
 [[files]]
 file = "mods/industrial-revolution.toml"
@@ -241,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/mo-structures.toml"
 hash = "1c80f04c6c1b3fef58c558d452c2086d92cad265a276005bafe6c64dd2d96a2c"
+metafile = true
+
+[[files]]
+file = "mods/mob-origins.toml"
+hash = "50e2c0f7016254768326b4df7db886d3ca1873172b5d1afde5647f8c88aefdcc"
 metafile = true
 
 [[files]]
@@ -327,10 +344,6 @@ metafile = true
 file = "mods/skinned-lanterns-fabric.toml"
 hash = "b1fa72c9c9e473523d67ce19551c8494ed7c3431ac4cabc7b82a60c477f39d7c"
 metafile = true
-
-[[files]]
-file = "mods/sodium-fabric-mc1.16.4-0.1.1-SNAPSHOT.jar"
-hash = "190b5baa95f7dad72dcf8ea2d4e9b002e433d81d94d290737c72c97933e9b443"
 
 [[files]]
 file = "mods/staff-of-building.toml"
