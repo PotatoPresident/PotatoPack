@@ -1,0 +1,14 @@
+name = "Hat List"
+filename = "hatlist-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3199/306/hatlist-1.1.jar"
+hash-format = "murmur2"
+hash = "1580011444"
+
+[update]
+[update.curseforge]
+file-id = 3199306
+project-id = 438643
+release-channel = "beta"

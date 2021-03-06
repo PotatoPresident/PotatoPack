@@ -1,0 +1,14 @@
+name = "Mobs Attempt Parkour"
+filename = "mobs-attempt-parkour-0.2.2-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3175/654/mobs-attempt-parkour-0.2.2-1.16.5.jar"
+hash-format = "murmur2"
+hash = "2892051890"
+
+[update]
+[update.curseforge]
+file-id = 3175654
+project-id = 391812
+release-channel = "beta"

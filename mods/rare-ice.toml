@@ -1,0 +1,14 @@
+name = "Rare Ice (Forge/Fabric)"
+filename = "rare-ice-0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3033/315/rare-ice-0.2.2.jar"
+hash-format = "murmur2"
+hash = "1757401037"
+
+[update]
+[update.curseforge]
+file-id = 3033315
+project-id = 373774
+release-channel = "beta"

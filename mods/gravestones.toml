@@ -1,0 +1,14 @@
+name = "Gravestones"
+filename = "gravestones-v1.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3205/463/gravestones-v1.9.jar"
+hash-format = "murmur2"
+hash = "2013652464"
+
+[update]
+[update.curseforge]
+file-id = 3205463
+project-id = 373595
+release-channel = "beta"
